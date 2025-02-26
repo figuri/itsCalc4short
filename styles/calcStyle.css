@@ -83,3 +83,22 @@ body {
     color: #fff;
     background: rgba(2, 118, 64, 0.844)
 }
+
+.btn:last-child:hover {
+    background-color: inherit;
+    color: inherit;
+}
+
+.btn:hover {
+    background-color: inherit;
+    color: inherit;
+}
+
+.btn:active {
+    background-color: rgba(41, 33, 131, 0.5)
+}
+
+.btn:last-child:active {
+    background-color: rgba(2, 118, 64, 0.5)
+}
+
